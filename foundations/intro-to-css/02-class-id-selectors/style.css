@@ -1,0 +1,19 @@
+.red-box {
+    background-color: rgb(255, 0, 0, 0.35);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}   
+
+.bigger {
+    font-size: 24px;
+}
+
+#big-blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#big-green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
